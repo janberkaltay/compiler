@@ -72,3 +72,16 @@ p {
 .error h2 {
   color: red;
 }
+
+.dev{
+  margin-top: 150px;
+  color: white;
+  list-style: none;
+}
+
+.dev a {
+  text-decoration: underline;
+  align-items: center;
+  color: white;
+  margin: 0 10px;
+}
