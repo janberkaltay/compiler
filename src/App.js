@@ -148,7 +148,6 @@ function App() {
           </div>
         )}
         <div className='dev'>
-      &copy; 2024 Powered by 
                     <a href="http://www.janberkaltay.dev" target="_blank" rel="noopener noreferrer"> Janberk Altay</a>  
                 </div>
       </header>
